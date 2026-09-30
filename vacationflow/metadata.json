@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Solicitação de Férias",
+  "description": "Sistema de gestão e solicitação de férias com controle de períodos de 15 dias, dupla aprovação por Supervisor e RH, e persistência integrada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
